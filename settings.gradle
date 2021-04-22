@@ -6,4 +6,3 @@ pluginManagement {
 
 include ':JFox'
 project(':JFox').projectDir = new File(settingsDir, '../JFox')
-
