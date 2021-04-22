@@ -1,0 +1,7 @@
+#
+#Wed Feb 24 19:13:08 CET 2021
+org.eclipse.jdt.apt.aptEnabled=true
+org.eclipse.jdt.apt.genTestSrcDir=.apt_generated_tests
+org.eclipse.jdt.apt.reconcileEnabled=true
+org.eclipse.jdt.apt.genSrcDir=generated
+eclipse.preferences.version=1
